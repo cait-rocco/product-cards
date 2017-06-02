@@ -1,0 +1,29 @@
+.container {
+	float: left;	
+}
+
+article {
+	border: 1px solid lightblue;
+	width: 30%;
+	display: inline-block;
+	margin: 1.5%;
+	text-align: center;
+}
+
+h2 {
+	border: 1px dotted lightgray;
+	text-align: center;
+}
+
+img {
+	max-width: 200px;
+}
+
+p {
+	text-align: justify;
+}
+
+h3 {
+	background-color: gray;
+	color: yellow;
+}
